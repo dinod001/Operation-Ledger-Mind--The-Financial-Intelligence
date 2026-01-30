@@ -26,6 +26,7 @@ dependencies = [
     "langchain-community>=0.2.0",
     "unstructured[pdf]>=0.10.0",
     "numba>=0.57.0",
+    "pytesseract>=0.3.10",
     
     # LangChain LLM Providers
     "langchain-openai>=0.1.0",

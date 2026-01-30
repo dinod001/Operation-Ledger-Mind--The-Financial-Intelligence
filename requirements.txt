@@ -52,6 +52,7 @@ cohere>=4.0.0
 
 # Document Processing
 pypdf>=3.0.0
+pytesseract>=0.3.10
 
 # Sparse Retrieval
 rank-bm25>=0.2.2
