@@ -12,6 +12,7 @@ torch>=2.0.0
 
 # Vector Database
 chromadb>=0.4.0
+weaviate-client>=4.4.0
 
 # LangChain Core
 langchain>=0.2.0
@@ -28,6 +29,7 @@ langchain-cohere>=0.1.0
 
 # LangChain Vector Stores
 langchain-chroma>=0.1.0
+langchain-weaviate>=0.0.1
 
 # LlamaIndex Core
 llama-index>=0.10.0
@@ -44,6 +46,7 @@ llama-index-embeddings-huggingface>=0.1.0
 
 # LlamaIndex Vector Stores
 llama-index-vector-stores-chroma>=0.1.0
+llama-index-vector-stores-weaviate>=0.1.0
 
 # LLM API Clients
 openai>=1.0.0
