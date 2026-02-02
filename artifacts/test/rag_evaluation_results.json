@@ -2,51 +2,71 @@
     {
         "question": "6. Does the table show an increase or decrease in operations and support from 2023 to 2024?",
         "actual_answer": "Increase",
-        "generated_answer": "The table shows an increase in operations and support expenses from 2023 to 2024. Specifically, operations and support expenses increased by $43 million, or 2%, from $2,689 million in 2023 to $2,732 million in 2024. This information is detailed in the excerpt stating, \"Operations and support expenses increased $43 million, or 2%.\" (Source: 2024 Compared to 2023 section)."
+        "generated_answer": "The table shows an increase in operations and support from 2023 to 2024.",
+        "latency": 9.105177879333496,
+        "cost": 0.00033884999999999997
     },
     {
         "question": "9. Besides the OPM, what other method is mentioned for allocating value to the investee's securities?",
         "actual_answer": "The common stock equivalent (CSE) method.",
-        "generated_answer": "Besides the Option-Pricing Model (OPM), the other methods mentioned for allocating value to the investee's securities include the Common Stock Equivalent (CSE) method and a hybrid approach. This information is derived from the excerpt that states, \"Once the fair value of the investee is estimated, an option-pricing model (“OPM”), a common stock equivalent (“CSE”) method or a hybrid approach is employed to allocate value to various classes of securities of the investee\" (first source excerpt)."
+        "generated_answer": "The other method mentioned for allocating value to the investee's securities is the common stock equivalent (CSE) method.",
+        "latency": 4.973958969116211,
+        "cost": 0.00034845
     },
     {
         "question": "5. What amount is listed under Other expenses in the data?",
         "actual_answer": "17,957",
-        "generated_answer": "17,957"
+        "generated_answer": "Information not available.",
+        "latency": 3.177828073501587,
+        "cost": 0.0002712
     },
     {
         "question": "4. Did the company record any material realized gains or losses for debt securities for the years ended December 31, 2022, 2023, and 2024?",
         "actual_answer": "No material realized gains or losses were recorded for debt securities.",
-        "generated_answer": "The company did not record any material realized gains or losses for its debt securities for the years ended December 31, 2022, 2023, and 2024. This information is explicitly stated in the excerpt: \"For the years ended December 31, 2022, 2023 and 2024, we did not record any material realized gains or losses for our debt securities.\""
+        "generated_answer": "The company did not record any material realized gains or losses for debt securities for the years ended December 31, 2022, 2023, and 2024.",
+        "latency": 4.4370198249816895,
+        "cost": 0.0004263
     },
     {
         "question": "2. When are end-user referrals paid to the referring end-user?",
         "actual_answer": "End-user referrals are typically paid in the form of a credit given to the referring end-user after the new end-user completes their first transaction on the platform.",
-        "generated_answer": "End-user referrals are paid to the referring end-user when the new end-user, who is not a customer, completes their first transaction on the platform. The referrals are typically paid in the form of a credit given to the referring end-user. The liability for these referrals and corresponding expenses is recorded as sales and marketing expenses at the time the referral is earned by the referring end-user. \n\n(Source: End-user referrals section)"
+        "generated_answer": "End-user referrals are paid to the referring end-user when the new end-user, who is not a customer, completes their first transaction on the platform.",
+        "latency": 4.6560657024383545,
+        "cost": 0.00043874999999999996
     },
     {
         "question": "10. What implications could reports of violent crime have on consumer perception of the platform?",
         "actual_answer": "Information not available.",
-        "generated_answer": "Reports of violent crime have significant implications for consumer perception of Uber's platform. The excerpts indicate that numerous incidents of violent crime, including armed robbery, violent assault, and sexual assault, have been reported involving Drivers and consumers on the platform. Such incidents can lead to a perception that the platform is unsafe, which may deter potential users from engaging with Uber's services. \n\nSpecifically, if consumers perceive that Drivers or individuals impersonating Drivers are engaging in criminal activity, they may view the platform as unsafe, resulting in negative press coverage and harm to Uber's brand and reputation. This perception can adversely affect the company's ability to attract and retain users, ultimately impacting its business and financial results. Furthermore, the presence of high rates of violent crime in certain regions where Uber operates exacerbates these concerns, as highlighted in the context regarding Brazil and other jurisdictions.\n\nAdditionally, public reporting of safety incidents, whether generated by Uber or third parties, can lead to increased regulatory scrutiny and litigation, further damaging the company's reputation and financial standing. The context emphasizes that unfavorable media coverage and negative publicity could adversely impact Uber's financial results and future prospects, particularly as the platform scales and becomes more interconnected, amplifying any damage to its brand and reputation (Source Excerpts). \n\nIn summary, reports of violent crime can significantly undermine consumer trust and perception of safety on the platform, which is critical for Uber's ongoing business viability."
+        "generated_answer": "Reports of violent crime can lead consumers to perceive the platform as unsafe, which may harm their willingness to use the service. Negative incidents involving drivers or consumers can result in unfavorable media coverage, damaging the brand's reputation and potentially affecting business performance. Additionally, if consumers feel unsafe, they may choose not to engage with the platform, further impacting user attraction and retention.",
+        "latency": 5.3092734813690186,
+        "cost": 0.0003819
     },
     {
         "question": "3. What is the income from operations for the year 2023?",
         "actual_answer": "1,110",
-        "generated_answer": "The income from operations for the year 2023 is $1,110 million. This information can be found in the table summarizing the consolidated statements of operations for the year ended December 31, 2023, as detailed in the provided context."
+        "generated_answer": "The income from operations for the year 2023 is $1,110 million.",
+        "latency": 7.962999105453491,
+        "cost": 0.00044504999999999995
     },
     {
         "question": "3. How might activism affect the company's business and expenses?",
         "actual_answer": "Activism may require the company to incur costs, or otherwise adversely impact its business.",
-        "generated_answer": "Activism may affect the company's business and expenses in several ways, as outlined in the provided excerpts. \n\n1. **Increased Costs**: The company may incur additional costs due to activism, which can arise from media campaigns, reputational harm, investigations, and litigation initiated by stakeholders. This activism could require the company to allocate resources to manage these challenges, leading to increased compliance costs and scrutiny (Source Excerpt 1).\n\n2. **Operational and Regulatory Risks**: Activism can lead to heightened operational and regulatory risks, including the need for extensive internal controls and oversight obligations. This may necessitate hiring third-party experts, further increasing operational expenses (Source Excerpt 2).\n\n3. **Impact on Employee Relations**: Negative perceptions stemming from activism regarding the company's environmental and social initiatives could hinder its ability to hire or retain employees. This could lead to additional costs related to recruitment and training (Source Excerpt 1).\n\n4. **Reputational Damage**: Activism can adversely impact the company's reputation, which may affect its stock price and overall market perception. Investors and lenders may reconsider their capital allocation based on the company's environmental and social practices, potentially impacting access to capital (Source Excerpt 4).\n\nIn summary, activism can lead to increased costs, operational challenges, reputational risks, and potential impacts on employee relations, all of which could adversely affect the company's financial condition and results of operations."
+        "generated_answer": "Activism can adversely affect the company's business and expenses by requiring it to incur costs related to compliance, investigations, and litigation. Increased scrutiny from stakeholders may lead to higher compliance costs and operational challenges. Negative perceptions regarding the company's environmental and social initiatives could result in difficulties in hiring and retaining employees, as well as potential regulatory scrutiny and reputational harm. Additionally, activism may impact the company's access to capital as investors and lenders reassess their investment allocations based on the company's practices.",
+        "latency": 10.270002603530884,
+        "cost": 0.00041055
     },
     {
         "question": "9. How many total marketable debt securities are there listed in the table?",
-        "actual_answer": "five",
-        "generated_answer": "The total number of marketable debt securities listed in the table is five. These include:\n\n1. U.S. government and agency securities\n2. Commercial paper\n3. Corporate bonds\n4. Certificates of deposit\n5. Short-term investments\n\nAdditionally, there are marketable debt securities classified as restricted investments, which are also listed separately in the table. \n\nThis information can be found in the first excerpt under the section titled \"Marketable debt securities.\""
+        "actual_answer": "8 marketable debt",
+        "generated_answer": "There are a total of 8 marketable debt securities listed in the table.",
+        "latency": 23.701895713806152,
+        "cost": 0.0004461
     },
     {
         "question": "When do the 2028 Convertible Notes mature, based on the provided context?",
         "actual_answer": "December 1, 2028",
-        "generated_answer": "The 2028 Convertible Notes mature on December 1, 2028, as stated in the provided context: \"the 2028 Convertible Notes... will mature on December 1, 2028.\""
+        "generated_answer": "The 2028 Convertible Notes mature on December 1, 2028.",
+        "latency": 5.840282440185547,
+        "cost": 0.0004923
     }
 ]

@@ -1,0 +1,126 @@
+{
+    "rag": [
+        {
+            "question": "6. Does the table show an increase or decrease in operations and support from 2023 to 2024?",
+            "rouge_l": 0.14285714285714288,
+            "judge_score": 5,
+            "reasoning": "SCORE: 5  \nREASONING: The AI prediction accurately reflects the reference answer by clearly stating that there is an increase in operations and support from 2023 to 2024. The response is concise and directly addresses the question, demonstrating a correct understanding of the information presented."
+        },
+        {
+            "question": "9. Besides the OPM, what other method is mentioned for allocating value to the investee's securities?",
+            "rouge_l": 0.4799999999999999,
+            "judge_score": 5,
+            "reasoning": "SCORE: 5  \nREASONING: The AI prediction accurately restates the information provided in the reference answer without any errors or omissions. It correctly identifies the common stock equivalent (CSE) method as the other method mentioned for allocating value to the investee's securities, demonstrating a clear understanding of the question and the reference material."
+        },
+        {
+            "question": "5. What amount is listed under Other expenses in the data?",
+            "rouge_l": 0.0,
+            "judge_score": 1,
+            "reasoning": "SCORE: 1  \nREASONING: The AI prediction fails to provide the correct amount listed under Other expenses, which is explicitly stated in the reference answer as 17,957. Instead, it incorrectly claims that the information is not available, demonstrating a lack of accuracy and relevance in the response."
+        },
+        {
+            "question": "4. Did the company record any material realized gains or losses for debt securities for the years ended December 31, 2022, 2023, and 2024?",
+            "rouge_l": 0.4571428571428572,
+            "judge_score": 5,
+            "reasoning": "SCORE: 5  \nREASONING: The AI response accurately reflects the information provided in the reference answer, maintaining clarity and completeness. It directly answers the question regarding material realized gains or losses for debt securities for the specified years, matching the reference answer's content and intent."
+        },
+        {
+            "question": "2. When are end-user referrals paid to the referring end-user?",
+            "rouge_l": 0.7368421052631577,
+            "judge_score": 4,
+            "reasoning": "SCORE: 4  \nREASONING: The AI prediction accurately captures the essence of the reference answer by stating that end-user referrals are paid after the new end-user completes their first transaction. However, the phrase \"who is not a customer\" introduces unnecessary specificity that could lead to confusion, as it implies a distinction that may not be relevant to the context. Overall, the AI response is mostly correct but slightly less clear due to this added detail."
+        },
+        {
+            "question": "10. What implications could reports of violent crime have on consumer perception of the platform?",
+            "rouge_l": 0.029850746268656716,
+            "judge_score": 5,
+            "reasoning": "SCORE: 5  \nREASONING: The AI prediction provides a comprehensive analysis of the implications of violent crime reports on consumer perception of the platform. It effectively addresses the potential negative impact on safety perceptions, brand reputation, and user engagement, aligning well with the question's focus. The response is detailed and relevant, demonstrating a clear understanding of the issue at hand."
+        },
+        {
+            "question": "3. What is the income from operations for the year 2023?",
+            "rouge_l": 0.2857142857142857,
+            "judge_score": 5,
+            "reasoning": "SCORE: 5  \nREASONING: The AI prediction accurately reflects the reference answer by providing the same numerical value and clarifying the unit of measurement (million dollars). This demonstrates a clear understanding of the question and presents the information in a precise manner."
+        },
+        {
+            "question": "3. How might activism affect the company's business and expenses?",
+            "rouge_l": 0.1386138613861386,
+            "judge_score": 5,
+            "reasoning": "SCORE: 5  \nREASONING: The AI response effectively expands on the reference answer by providing a comprehensive analysis of how activism can impact a company's business and expenses. It identifies specific costs related to compliance, investigations, and litigation, as well as the broader implications of stakeholder scrutiny, reputational harm, and access to capital. This detailed exploration aligns well with the reference answer while adding valuable context and depth, demonstrating a thorough understanding of the topic."
+        },
+        {
+            "question": "9. How many total marketable debt securities are there listed in the table?",
+            "rouge_l": 0.375,
+            "judge_score": 5,
+            "reasoning": "SCORE: 5  \nREASONING: The AI prediction accurately restates the information from the reference answer, maintaining clarity and correctness in the response. It directly answers the question with the same numerical value and context, demonstrating a precise understanding of the information provided."
+        },
+        {
+            "question": "When do the 2028 Convertible Notes mature, based on the provided context?",
+            "rouge_l": 0.5,
+            "judge_score": 5,
+            "reasoning": "SCORE: 5  \nREASONING: The AI Prediction accurately matches the Reference Answer, providing the correct maturity date for the 2028 Convertible Notes without any discrepancies."
+        }
+    ],
+    "finetune": [
+        {
+            "question": "6. Does the table show an increase or decrease in operations and support from 2023 to 2024?",
+            "rouge_l": 0.33333333333333337,
+            "judge_score": 5,
+            "reasoning": "SCORE: 5  \nREASONING: The AI prediction accurately captures the essence of the reference answer by stating that there was an increase in operations and support from 2023 to 2024. The wording is slightly different, but the meaning remains the same, demonstrating a clear understanding of the question."
+        },
+        {
+            "question": "9. Besides the OPM, what other method is mentioned for allocating value to the investee's securities?",
+            "rouge_l": 0.28571428571428575,
+            "judge_score": 2,
+            "reasoning": "SCORE: 2  \nREASONING: The AI response incorrectly identifies the method mentioned in the reference answer. The reference answer specifies the common stock equivalent (CSE) method, while the AI response refers to the fair value method, which is not the correct answer. This indicates a misunderstanding of the question and a failure to accurately recall the relevant information."
+        },
+        {
+            "question": "5. What amount is listed under Other expenses in the data?",
+            "rouge_l": 0.0,
+            "judge_score": 1,
+            "reasoning": "SCORE: 1  \nREASONING: The AI response fails to provide any relevant information regarding the amount listed under Other expenses, which is explicitly stated in the reference answer. Instead of attempting to answer the question, the AI simply states its inability to do so, indicating a lack of engagement with the query."
+        },
+        {
+            "question": "4. Did the company record any material realized gains or losses for debt securities for the years ended December 31, 2022, 2023, and 2024?",
+            "rouge_l": 0.31249999999999994,
+            "judge_score": 1,
+            "reasoning": "SCORE: 1  \nREASONING: The AI prediction directly contradicts the reference answer, which states that no material realized gains or losses were recorded for debt securities. The AI's assertion of a specific realized gain of $1.1 billion is not only incorrect but also misrepresents the information provided in the reference answer."
+        },
+        {
+            "question": "2. When are end-user referrals paid to the referring end-user?",
+            "rouge_l": 0.4363636363636364,
+            "judge_score": 2,
+            "reasoning": "SCORE: 2  \nREASONING: The AI prediction partially addresses the question by mentioning a condition for payment (successful completion of the ride), but it incorrectly specifies the trigger for the referral payment as the end-user's rating of the driver, which is not mentioned in the reference answer. The reference answer clearly states that payments are made after the new end-user completes their first transaction, which is a different condition than what the AI provided. Overall, the AI's response lacks accuracy and alignment with the reference answer."
+        },
+        {
+            "question": "10. What implications could reports of violent crime have on consumer perception of the platform?",
+            "rouge_l": 0.0,
+            "judge_score": 4,
+            "reasoning": "SCORE: 4  \nREASONING: The AI prediction provides a comprehensive analysis of the implications of reports of violent crime on consumer perception of the platform. It effectively identifies key consequences such as decreased trust, lower demand, and potential regulatory scrutiny. However, while the response is detailed and relevant, it could benefit from a more nuanced exploration of consumer psychology or specific examples to enhance its depth. Overall, it is a strong response but lacks some specificity that could elevate it to a perfect score."
+        },
+        {
+            "question": "3. What is the income from operations for the year 2023?",
+            "rouge_l": 0.4,
+            "judge_score": 1,
+            "reasoning": "SCORE: 1  \nREASONING: The AI prediction of $1.3 billion is significantly higher than the reference answer of 1,110, indicating a major discrepancy in the understanding or calculation of the income from operations. The response does not align with the expected numerical format and fails to provide a correct or relevant answer."
+        },
+        {
+            "question": "3. How might activism affect the company's business and expenses?",
+            "rouge_l": 0.14814814814814817,
+            "judge_score": 5,
+            "reasoning": "SCORE: 5  \nREASONING: The AI prediction effectively expands on the reference answer by detailing specific ways activism can impact a company's business and expenses. It mentions increased regulatory scrutiny, litigation, and diversion of management resources, all of which are relevant and significant factors that align with the general idea presented in the reference answer. The response is comprehensive and accurately reflects the potential consequences of activism on a company's financial performance."
+        },
+        {
+            "question": "9. How many total marketable debt securities are there listed in the table?",
+            "rouge_l": 0.18181818181818182,
+            "judge_score": 5,
+            "reasoning": "SCORE: 5  \nREASONING: The AI response accurately reflects the limitations of its access to the information required to answer the question. It correctly states that it does not have access to the table, which aligns with the reference answer indicating that the information is not available."
+        },
+        {
+            "question": "When do the 2028 Convertible Notes mature, based on the provided context?",
+            "rouge_l": 0.0,
+            "judge_score": 1,
+            "reasoning": "SCORE: 1  \nREASONING: The AI prediction provides a specific maturity date for the 2028 Convertible Notes, which contradicts the reference answer stating that the information is not available. This indicates a misunderstanding or misinterpretation of the provided context, leading to an incorrect response."
+        }
+    ]
+}
